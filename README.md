@@ -1,2 +1,3 @@
 # HelloWorld
-My First Repository
+My first attempt of learning git.
+
